@@ -9,5 +9,9 @@ Gizmoball has a graphical user interface with two modes - building mode and runn
 Run ./src/view/GBallView.java
 
 ## Screenshots
-<img src="Screenshot 1.png" alt="Building Mode" align="right">
-<img src="Screenshot 2.png" alt="Running Mode" align="left">
+
+### Building Mode
+<img src="Screenshot 1.png" alt="Building Mode">
+
+### Running Mode
+<img src="Screenshot 2.png" alt="Running Mode">
