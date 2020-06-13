@@ -1,0 +1,4 @@
+Triangle T2 8 7
+Absorber abs1 0 18 20 20
+Circle c1 4 4
+Ball b1 1.5 3.4 2.4 1.0

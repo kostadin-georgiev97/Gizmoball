@@ -1,0 +1,121 @@
+Square s17 15 13
+Colour s17 -16776961
+Square s9 18 8
+Colour s9 -16776961
+Circle c16 5 9
+Colour c16 -65281
+Circle c12 16 9
+Colour c12 -65281
+LeftFlipper lf1 7 11
+KeyConnect Key 87 down lf1
+Circle c18 0 6
+Colour c18 -65281
+Circle c2 8 14
+Colour c2 -65281
+Circle c1 4 4
+Circle c0 7 14
+Colour c0 -65281
+RightFlipper rf1 11 11
+KeyConnect Key 69 down rf1
+Square s15 17 13
+Colour s15 -16776961
+Square s7 3 13
+Colour s7 -16776961
+LeftFlipper FLIPL 0 0
+Square s11 18 10
+Colour s11 -16776961
+Square s24 11 4
+Colour s24 -16776961
+Square s6 2 13
+Colour s6 -16776961
+Square s0 1 8
+Colour s0 -16776961
+Square s1 1 9
+Colour s1 -16776961
+Square s5 1 13
+Colour s5 -16776961
+RightFlipper rf0 13 13
+KeyConnect Key 82 down rf0
+Square s27 6 4
+Colour s27 -16776961
+Circle c15 4 9
+Colour c15 -65281
+Circle c9 3 11
+Colour c9 -65281
+RightFlipper FLIP2 0 0
+Square s26 7 4
+Colour s26 -16776961
+Square s13 18 12
+Colour s13 -16776961
+Square s2 1 11
+Colour s2 -16776961
+Circle c10 3 9
+Colour c10 -65281
+Triangle T3 19 1
+Rotate T3
+LeftFlipper FLIP1 0 0
+Circle c21 0 3
+Colour c21 -65281
+Circle c6 12 14
+Colour c6 -65281
+Absorber abs1 0 18 20 20
+KeyConnect Key 32 down abs1
+Square s3 1 10
+Colour s3 -16776961
+Square s8 4 13
+Colour s8 -16776961
+Circle c11 16 11
+Colour c11 -65281
+Square s12 18 11
+Colour s12 -16776961
+Square s23 12 4
+Colour s23 -16776961
+Circle c20 0 4
+Colour c20 -65281
+Square s28 5 4
+Colour s28 -16776961
+Square s20 17 4
+Colour s20 -16776961
+Circle c19 0 5
+Colour c19 -65281
+Square s21 16 4
+Colour s21 -16776961
+LeftFlipper lf0 5 13
+KeyConnect Key 81 down lf0
+Triangle T2 8 7
+Rotate T2
+Circle c13 15 9
+Colour c13 -65281
+Square s25 10 4
+Colour s25 -16776961
+Circle c14 14 9
+Colour c14 -65281
+Square s14 18 13
+Colour s14 -16776961
+RightFlipper FLIP1 0 0
+Rotate FLIP1
+Rotate FLIP1
+LeftFlipper FLIP2 0 0
+Rotate FLIP2
+Rotate FLIP2
+Rotate FLIP2
+Rotate FLIP2
+Square s16 16 13
+Colour s16 -16776961
+Circle c5 11 14
+Colour c5 -65281
+Square s4 1 12
+Colour s4 -16776961
+Square s22 15 4
+Colour s22 -16776961
+Circle c17 0 7
+Colour c17 -65281
+RightFlipper FLIPR 0 0
+Square s10 18 9
+Colour s10 -16776961
+Circle c8 10 12
+Colour c8 -65281
+Circle c7 9 12
+Colour c7 -65281
+Ball B1 4.0 4.0 5.0 15.0
+

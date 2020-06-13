@@ -1,0 +1,14 @@
+Circle C43 4 3
+Circle C54 5 4
+Circle C65 6 5
+Triangle C76 10 6
+Circle C99 9 9
+Circle C109 10 9
+Circle C1110 11 10
+Circle C129 12 9
+Square C139 13 9
+Triangle C156 15 20
+Circle C165 16 5
+Circle C174 17 4
+Square C183 20 3
+Ball b1 1.5 3.4 2.4 1.0

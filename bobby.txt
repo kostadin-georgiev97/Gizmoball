@@ -1,0 +1,19 @@
+RightFlipper FLIP2 0 0
+Rotate FLIP2
+Rotate FLIP2
+Rotate FLIP2
+Triangle T2 8 7
+Rotate T2
+LeftFlipper FLIP1 0 0
+LeftFlipper FLIP2 0 0
+Rotate FLIP2
+Triangle T3 19 1
+Rotate T3
+RightFlipper FLIP1 0 0
+Rotate FLIP1
+Rotate FLIP1
+LeftFlipper FLIPL 0 0
+Absorber abs1 0 18 20 20
+Circle c1 4 4
+RightFlipper FLIPR 0 0
+Ball B1 4.0 4.0 5.0 15.0
